@@ -7,3 +7,6 @@
 [submodule ".vim/bundle/vim-latex"]
 	path = .vim/bundle/vim-latex
 	url = git@github.com:vim-latex/vim-latex.git
+[submodule ".vim/bundle/ale"]
+	path = .vim/bundle/ale
+	url = https://github.com/w0rp/ale.git
