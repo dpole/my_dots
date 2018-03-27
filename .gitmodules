@@ -1,9 +1,9 @@
 [submodule ".vim/bundle/vim-sensible"]
 	path = .vim/bundle/vim-sensible
 	url = git@github.com:dpole/vim-sensible.git
-[submodule ".vim/bundle/vim-autopep8"]
-	path = .vim/bundle/vim-autopep8
-	url = git@github.com:tell-k/vim-autopep8.git
 [submodule ".vim/bundle/sh.vim--Cla"]
 	path = .vim/bundle/sh.vim--Cla
 	url = https://github.com/vim-scripts/sh.vim--Cla
+[submodule ".vim/bundle/vim-latex"]
+	path = .vim/bundle/vim-latex
+	url = git@github.com:vim-latex/vim-latex.git
