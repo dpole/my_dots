@@ -2,6 +2,8 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
+set mouse+=a
+set number
 set pastetoggle=<F2>
 set textwidth=80
 map ;e :w<cr>:!./%<cr>
